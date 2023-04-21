@@ -36,7 +36,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0 0 0; 
+    padding: 24px 0 0 24px; 
 }
 
 .escola-div-conteudo{
