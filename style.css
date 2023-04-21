@@ -31,12 +31,12 @@ body {
 }
 
 .escola{
-    background-image: linear-gradient(#424E61,#16CFF8);
+    background-image: linear-gradient(#16CFF8,#424E61);
     color:white;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0 0 24px; 
+    padding: 24px 0 0 0; 
 }
 
 .escola-div-conteudo{
